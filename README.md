@@ -1,1 +1,1 @@
-Hi, there! :star2:
+Hi, there! 👋
