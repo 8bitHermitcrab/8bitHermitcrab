@@ -7,4 +7,4 @@ Tech Stack 🛠
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?8bitHermitcrab=anuraghazra&theme=nord&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=nord&show_icons=true)
