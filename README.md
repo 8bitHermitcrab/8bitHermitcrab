@@ -9,8 +9,5 @@ Tech Stack 🛠
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=8bitHermitcrab&theme=nord&show_icons=true)
-
-
-[![Solved.ac
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=8bitHermitcrab&theme=nord&show_icons=true) [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=8bitcrab)](https://solved.ac/8bitcrab)
