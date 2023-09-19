@@ -1,12 +1,20 @@
+<div align="center">
+  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F8bitHermitcrab&count_bg=%237390AB&title_bg=%232E3440&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ---
 
-Hi, there! 👋
+![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=AI%20Back-end%20Developer&fontSize=40)
 
 ---
 
-<h3>🛠 Tech Stack 🛠</h3>
+<h3>💼 Experience</h3>
+<h5>NATOO [2022.12 ~ 2023.09]</h5>
+</div>
+
+---
+
+<h3>🛠 Tech Stack</h3>
 
 <h4>Languages</h4>
 <h5> * Main</h5>
@@ -46,10 +54,15 @@ Hi, there! 👋
 
 ---
 
+<div align="center">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=8bitHermitcrab&theme=nord&show_icons=true)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8bitHermitcrab&layout=compact&theme=nord)
+
+---
+
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=8bitcrab)](https://solved.ac/8bitcrab)
 
 ---
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=8bitHermitcrab&theme=nord&show_icons=true)
-
----
+</div>
