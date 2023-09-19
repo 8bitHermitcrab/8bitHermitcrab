@@ -12,15 +12,17 @@ Hi, there! 👋
 <h5> * Main</h5>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> 
-  (<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>, 
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>)
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
 </p>
 
 <h5> - Sub</h5>
 <p>
-  <img src="https://img.shields.io/badge/Java-437291?style=flat&logo=openjdk&logoColor=white"/>, 
+  <img src="https://img.shields.io/badge/Java-437291?style=flat&logo=openjdk&logoColor=white"/>
+</p>
+<p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
-  (<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white"/>)
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white"/>
 </p>
 
 <h4>Database</h4>
