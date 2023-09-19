@@ -6,14 +6,14 @@ Hi, there! 👋
 
 ---
 
-Tech Stack 🛠
+Main Tech Stack 🛠
 
 Languages
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 
 
-Server Framework
+Framework
 
 <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
@@ -23,6 +23,7 @@ Database
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
 
+Deploy
 
 <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=amazonec2&logoColor=white"/>
 <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat&logo=amazons3&logoColor=white"/>
@@ -30,8 +31,19 @@ Database
 <img src="https://img.shields.io/badge/Google Analytics-E37400?style=flat&logo=googleanalytics&logoColor=white"/>
 
 
+---
+
+Sub Tech Stack 🔨
+
+Languages
+
+<img src="https://img.shields.io/badge/Java-437291?style=flat&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
+
+
 Etc
 
+<img src="https://img.shields.io/badge/Laravel-#FF2D20?style=flat&logo=laravel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
 
