@@ -7,17 +7,17 @@ Hi, there! 👋
 ---
 
 Tech Stack 🛠
+<p>Languages</p>
 <p>
-  Languages
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 </p>
+<p>Server Framework</p>
 <p>
-  Server Framework
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
 </p>
+<p>Database</p>
 <p>
-  Database
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
 </p>
 <p>
@@ -26,8 +26,8 @@ Tech Stack 🛠
   <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google Analytics-E37400?style=flat&logo=googleanalytics&logoColor=white"/>
 </p>
+<p>Etc</p>
 <p>
-  Etc
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
 </p>
